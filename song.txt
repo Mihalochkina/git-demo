@@ -5,4 +5,5 @@ new row 4
 new row 5
 new row 6
 
-demo-feature changes 
+demo-feature change1
+demo-feature change2
